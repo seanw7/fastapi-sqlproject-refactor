@@ -1,0 +1,5 @@
+{
+    "secret_key": "run `openssl rand -hex 32` and paste output here",
+    "algorithm": "HS256",
+    "account_token_expire_minutes": 30
+}
